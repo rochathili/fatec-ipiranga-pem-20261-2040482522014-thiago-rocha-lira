@@ -1,1 +1,1 @@
-# Repositório para atividades da matéria de Programaçào Estruturada e Modular
+# Repositório para atividades da matéria de Programação Estruturada e Modular
