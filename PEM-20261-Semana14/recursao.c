@@ -11,11 +11,22 @@ void decToBin(int n)
 
 int potencia(int base, int exp)
 {
-    if(exp == 0){
+    if (exp == 0)
+    {
         return 1;
-    } 
+    }
     else
     {
-        return base * potencia(base, exp-1);
+        return base * potencia(base, exp - 1);
+    }
+}
+
+int somaDigitos(int n)
+{
+    if(n == 0){
+        return 0;
+    }
+    else{
+        return((n % 10) + somaDigitos(n / 10));
     }
 }
