@@ -1,3 +1,12 @@
+/*----------------------------------------------------------*
+*                      FATEC Ipiranga                       *
+* Disciplina: Programaçao Estruturada e Modular             *
+*          Prof. Veríssimo                                  *
+*-----------------------------------------------------------*
+* Objetivo do Programa: Conversor e calculadora cient. CUCC *
+* Data - 15/05/2026                                         * 
+* Autor: Thiago Rocha Lira                                  *
+*-----------------------------------------------------------*/
 #include <stdio.h>
 #include "recursao.h"
 #include "interface.h"
