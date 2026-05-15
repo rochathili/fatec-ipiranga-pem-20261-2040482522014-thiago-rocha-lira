@@ -3,6 +3,6 @@
 
 void decToBin(int n);
 int potencia(int base, int exp);
-int potencia(int n);
+int somaDigitos(int n);
 
 #endif

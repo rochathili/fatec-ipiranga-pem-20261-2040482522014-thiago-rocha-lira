@@ -1,4 +1,5 @@
 #include "recursao.h"
+#include <stdio.h>
 
 void decToBin(int n)
 {
