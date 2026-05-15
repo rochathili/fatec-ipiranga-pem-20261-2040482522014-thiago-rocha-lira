@@ -3,5 +3,6 @@
 
 void exibirMenu(void);
 int capturarEscolhaUsuario(void);
+int receberNumero(void);
 
 #endif
